@@ -1,2 +1,2 @@
-## 📑| Traba API Django
+## 📑| Trabal API Django
 
