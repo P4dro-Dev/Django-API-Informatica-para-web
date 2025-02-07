@@ -1,2 +1,2 @@
-## 📑| Trabalho final da disipl API Django
+## 📑| Trabalho final da disipli API Django
 
