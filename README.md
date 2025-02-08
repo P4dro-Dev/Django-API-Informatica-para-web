@@ -1,3 +1,3 @@
 ## 📑| Trabalho final da disiplina de Desenvolvimento web II API Django
 
-  Nesse projeto final da disciplina de Desenvolvimen Informática 
+  Nesse projeto final da disciplina de Desenvolviment Informática 
