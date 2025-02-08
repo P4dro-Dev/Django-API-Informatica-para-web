@@ -1,2 +1,2 @@
-## 📑| Trabalho final da disiplina de Desenvolvimentp API Django
+## 📑| Trabalho final da disiplina de Desenvolviment API Django
 
