@@ -8,7 +8,7 @@
 
 ## | Licença
 
-Este projeto está s
+Este projeto está so
 
 ## | Contato 
   
