@@ -8,7 +8,7 @@
 
 ## | Licença
 
-Est
+Este
 
 ## | Contato 
   
