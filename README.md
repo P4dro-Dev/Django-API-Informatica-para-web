@@ -4,7 +4,7 @@
 
 ## | Estrutura do Projeto
 
-## | Licenç
+## | Licença
 
 ## | Contato 
   
