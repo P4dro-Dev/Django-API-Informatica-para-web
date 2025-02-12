@@ -8,7 +8,7 @@
 
 ## 📑| Licença
 
-  Este projeto está sobre à licença MIT
+  |Este projeto está sobre à licença MIT
 
 ## 📱| Contato 
 
