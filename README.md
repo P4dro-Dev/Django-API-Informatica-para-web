@@ -12,4 +12,4 @@ Este projeto está sobre à licença MIT
 
 ## | Contato 
 
-  E-mail: henrique.sousa62@aluno.i.ed
+  E-mail: henrique.sousa62@aluno.if.ed
