@@ -6,7 +6,7 @@
  
     
 
-## 📑| Licença 
+## 📑| Licença  
  
   📄| Este projeto está sobre à licença MIT
 
